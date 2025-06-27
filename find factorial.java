@@ -1,3 +1,4 @@
+//find
 public class factorial{
     public static void main(string[] args){
         int num=10;
