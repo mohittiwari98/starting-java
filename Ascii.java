@@ -1,4 +1,4 @@
-//find ascii
+//find ascii value
 public class AsciiValue{
     public static void main(String[] args){
         char ch='a';
