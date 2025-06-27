@@ -5,6 +5,7 @@ class main{
         int gcd=1;
         //used for loop
         for(int i=1;i<=n1 && i<=n2;++i){
+            //used
             if(n1 % i==0 && n2%i==0)
             gcd=i;
         }
