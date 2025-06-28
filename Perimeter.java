@@ -2,7 +2,7 @@
 import java.util.Scanner;
 class Perimeter{
     public static void main(string[] args){
-        //input data
+        //input data he
         Scanner input=new Scanner(System.in);
         System.out.println("welcome to perimeter calculator");
         System.out.print("please enter all 4 sides in cms");
