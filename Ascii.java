@@ -1,7 +1,7 @@
 //find ascii value
 public class AsciiValue{
     public static void main(String[] args){
-        //change alphabet 
+        //change alphabet to
         char ch='a';
         int asccii=ch;
         int castAscii=(int) ch;
