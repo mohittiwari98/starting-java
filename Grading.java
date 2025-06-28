@@ -1,7 +1,7 @@
 import java.util.Scanner;
 class Grading{
     public static void main(string[] args){
-       //enter input
+       //enter input value
         Scanner input = new Scanner(system.in);
         System.out.println("welcome\n");
         System.out.print("please enter your percentage");
