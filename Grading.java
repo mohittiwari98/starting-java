@@ -6,7 +6,7 @@ class Grading{
         System.out.println("welcome\n");
         System.out.print("please enter your percentage");
         float percentage=input.nextFloat();
-        //using
+        //using cond
 
         if(percentage>=90){
             System.out.println("A");
