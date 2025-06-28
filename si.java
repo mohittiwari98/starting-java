@@ -2,7 +2,7 @@
 import java.util.Scanner;
 class si{
     public static void main(string[] args){
-        //input value her
+        //input value here
         Scanner input=new Scanner(system.in);
         System.out.println("welcome  to si calculator");
         System.out.print("enter your principle");
