@@ -1,7 +1,7 @@
 //find gcd 
 class main{
     public static void main(string[] args){
-        //change value according to
+        //change value according to you
         int n1=81,n2=153;
         int gcd=1;
         //used for loop
