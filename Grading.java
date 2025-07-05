@@ -1,4 +1,4 @@
-//import java.u
+//import java.uy
 import java.util.Scanner;
 class Grading{
     public static void main(string[] args){
