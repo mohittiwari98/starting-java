@@ -10,7 +10,7 @@ class main{
             if(n1 % i==0 && n2%i==0)
             gcd=i;
         }
-        //g
+        //ge
         System.out.println("GCD of"+n1+"and"+n2+"is"+gcd);
     }
 }
