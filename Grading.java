@@ -1,4 +1,4 @@
-//import java.util.sc
+//import java.util.sca
 import java.util.Scanner;
 class Grading{
     public static void main(string[] args){
