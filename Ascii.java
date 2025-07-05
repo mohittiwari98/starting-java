@@ -5,7 +5,7 @@ public class AsciiValue{
         char ch='a';
         int asccii=ch;
         int castAscii=(int) ch;
-        //get out
+        //get outp
         System.out.println("the ascii is"+ch+"is"+ascii);
     }
 }
