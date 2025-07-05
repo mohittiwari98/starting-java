@@ -1,4 +1,4 @@
-//imp
+//impo
 import java.util.Scanner;
 class Grading{
     public static void main(string[] args){
