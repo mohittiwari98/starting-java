@@ -1,5 +1,5 @@
 //find perimeter
-//imp
+//impo
 import java.util.Scanner;
 class Perimeter{
     public static void main(string[] args){
