@@ -1,4 +1,4 @@
-//code to ge
+//code to get
 public class quotientremainder{
     public static void main(String[] args){
         int dividend=25,divisor=4;
