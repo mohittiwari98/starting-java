@@ -1,4 +1,4 @@
-//code to get qu
+//code to get quo
 public class quotientremainder{
     public static void main(String[] args){
         int dividend=25,divisor=4;
