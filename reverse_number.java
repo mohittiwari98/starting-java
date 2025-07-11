@@ -1,4 +1,4 @@
-//code to get
+//code to get r
 class Main{
     public static void main(string[] args){
         int num=1234,reversed=0;
