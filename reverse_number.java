@@ -1,4 +1,4 @@
-//code to get re
+//code to get rev
 class Main{
     public static void main(string[] args){
         int num=1234,reversed=0;
