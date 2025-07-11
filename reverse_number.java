@@ -1,4 +1,4 @@
-//code to get reverse of numbe
+//code to get reverse of number
 class Main{
     public static void main(string[] args){
         int num=1234,reversed=0;
