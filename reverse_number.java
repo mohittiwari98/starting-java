@@ -1,4 +1,4 @@
-//code 
+//code t
 class Main{
     public static void main(string[] args){
         int num=1234,reversed=0;
