@@ -1,4 +1,4 @@
-//code to 
+//code to g
 public class sumnatural{
     public static void main(string[] args){
         int num=100,sum=0;
