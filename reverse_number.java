@@ -4,7 +4,7 @@ class Main{
        //use your own value of original numbers  
         int num=1234,reversed=0;
         System.out.println("orginal num"+num);
-        //u
+        //us
         while(num!=0){
             int digit=num%10;
             reversed=reversed*10+digit;
