@@ -1,7 +1,7 @@
 //code to get reverse of number
 class Main{
     public static void main(string[] args){
-       //use 
+       //use y
         int num=1234,reversed=0;
         System.out.println("orginal num"+num);
         while(num!=0){
