@@ -1,4 +1,4 @@
-//find the 
+//find the v
 public class vowelquoinent{
     public static voi main(String[] args){
         char ch='i';
