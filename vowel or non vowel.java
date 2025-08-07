@@ -1,4 +1,4 @@
-//find the vowel and conste
+//find the vowel and consten
 public class vowelquoinent{
     public static voi main(String[] args){
         char ch='i';
