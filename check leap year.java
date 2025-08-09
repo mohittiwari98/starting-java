@@ -1,4 +1,4 @@
-//checking Leap year or non leap 
+//checking Leap year or non leap y
 public class  main{
     public static void main(string[] args){
         int year=100;
