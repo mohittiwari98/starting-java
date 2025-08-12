@@ -1,4 +1,4 @@
-//Binary search in j
+//Binary search in ja
 
 class BinarySearch {
   int binarySearch(int array[], int x, int low, int high) {
