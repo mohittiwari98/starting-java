@@ -1,4 +1,4 @@
-//Binary sear
+//Binary searc
 
 class BinarySearch {
   int binarySearch(int array[], int x, int low, int high) {
