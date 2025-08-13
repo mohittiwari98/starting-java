@@ -7,6 +7,7 @@ class BinarySearch {
     while (low <= high) {
       int mid = low + (high - low) / 2;
 
+      
       if (x == array[mid])
         return mid;
 
