@@ -1,4 +1,4 @@
-//Binary search in java us
+//Binary search in java usi
 
 class BinarySearch {
   int binarySearch(int array[], int x, int low, int high) {
