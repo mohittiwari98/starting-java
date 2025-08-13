@@ -1,4 +1,4 @@
-//Binary search in java using rec
+//Binary search in java using recu
 
 class BinarySearch {
   int binarySearch(int array[], int x, int low, int high) {
