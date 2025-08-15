@@ -1,5 +1,5 @@
 //Binary search in java using recursion 
-//using recursive appr
+//using recursive appro
 class BinarySearch {
   int binarySearch(int array[], int x, int low, int high) {
 
