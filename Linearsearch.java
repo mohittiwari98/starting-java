@@ -1,4 +1,4 @@
-//Linear search implementa
+//Linear search implementat
 public class LinearSearch {
 
     public static int linearSearch(int[] arr, int target) {
