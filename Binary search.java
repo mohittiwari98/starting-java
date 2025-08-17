@@ -6,7 +6,7 @@ class BinarySearch {
 
     // Repeat until the pointers low and high meet each other
     while (low <= high) {
-      //ge
+      //get
       int mid = low + (high - low) / 2;
 
     //checking  mid
