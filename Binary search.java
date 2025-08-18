@@ -1,6 +1,6 @@
 //Binary search in java using recursion 
 //using recursive approach 
-//implement
+//implemente
 class BinarySearch {
   int binarySearch(int array[], int x, int low, int high) {
 
